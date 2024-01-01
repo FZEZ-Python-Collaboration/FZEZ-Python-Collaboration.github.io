@@ -1,3 +1,7 @@
+baseURL: 'https://FZEZ-Python-Collaboration.github.io/'
+languageCode: 'zh-Hans'
+title: '福州二中Python创意编程社'
+theme: 'hugo-theme-stack'
 module:
     hugoVersion:
         extended: true
@@ -21,14 +25,14 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
+        subtitle: 博观而约取，厚积而薄发
         avatar:
             enabled: true
             local: true
             src: img/avatar.png
 
     article:
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
@@ -36,7 +40,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: false
+        enabled: true
         provider: disqus
 
         disqusjs:
