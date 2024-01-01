@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://FZEZ-Python-Collaboration.github.io/'
+languageCode = 'zh-Hans'
+title = '福州二中Python创意编程社'
 theme = 'hugo-theme-stack'
