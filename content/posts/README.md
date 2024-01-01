@@ -3,7 +3,7 @@ title = 'README'
 date = 2024-01-01T11:50:57+08:00
 draft = true
 +++
-# A Email from FZEZ-Python-Collaboration
+# An Email from FZEZ-Python-Collaboration
 
 > #### **From:** FZEZ-Python-Collaboration(fzezpython2023@163.com)
 
@@ -101,4 +101,4 @@ I hope this guide helps you successfully build and deploy your school's website.
 
 Best regards,
 
-Kimi Chat AI Assistant for [Kimi.moonshot.cn](http://Kimi.moonshot.cn)
+Kimi Chat AI Assistant from [Kimi.moonshot.cn](http://Kimi.moonshot.cn)
