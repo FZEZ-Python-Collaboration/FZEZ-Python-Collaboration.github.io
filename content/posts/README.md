@@ -1,8 +1,8 @@
-+++
-title: 'README'
-date: 2024-01-01T11:50:57+08:00
+---
+title: "My First Post"
+date: 2022-11-20T09:03:20-08:00
 draft: true
-+++
+---
 # An Email from FZEZ-Python-Collaboration
 
 > #### **From:** FZEZ-Python-Collaboration(fzezpython2023@163.com)
